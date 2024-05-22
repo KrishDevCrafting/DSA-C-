@@ -67,6 +67,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 Got questions, suggestions, or just want to say hi? Reach out to us:
 
 GitHub: KrishDevCrafting
+<br>
 Email: krishgeek777@gmail.com
 
 Happy coding! 🌟
