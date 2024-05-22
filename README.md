@@ -1,4 +1,6 @@
-🚀 Data Structures and Algorithms in C++ 🚀
+
+<h1🚀>Data Structures and Algorithms in C++ 🚀</h1>
+
 Welcome to the ultimate repository for Data Structures and Algorithms (DSA) in C++! Whether you're gearing up for coding interviews, aiming to ace your computer science courses, or simply looking to sharpen your problem-solving skills, you've landed in the right place.
 
 🌟 Table of Contents
